@@ -1,0 +1,15 @@
+ile_tur 100
+pocz_ile_robów 25
+pocz_progr lpi
+pocz_energia 20
+ułamek_energii_rodzica 0.4
+limit_powielania 5
+pr_usunięcia_instr 0.3
+pr_dodania_instr 0.3
+spis_instr lpi 
+pr_zmiany_instr 0.9
+ile_rośnie_jedzenie 1
+co_ile_wypisz 60
+ile_daje_jedzenie 10
+koszt_tury 1
+pr_powielenia 0.2
